@@ -1,3 +1,10 @@
+# Adding config.py file
+config.py
+
+#Adding additional files.
+API_practice.ipynb
+random_numbers.ipynb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -83,7 +90,7 @@ ipython_config.py
 
 # pyenv
 .python-version
-config.py
+
 
 # pipenv
 #   According to pypa/pipenv#598, it is recommended to include Pipfile.lock in version control.
